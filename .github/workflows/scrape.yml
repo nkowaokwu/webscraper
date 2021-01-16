@@ -9,24 +9,22 @@ on:
       - main
 
 jobs:
-  backup:
+  scrape:
     runs-on: ubuntu-latest
-      
+
     steps:
-    - name: Git checkout files and create db directory
+    - name: Git checkout files
       uses: actions/checkout@v2
-      with:
-        token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
     - name: Use Node.js 12
       uses: actions/setup-node@v1
       with:
         node-version: 12
     - name: Build Scraper
-      run: yarn build
+      run: |
+        yarn install
+        yarn build
     - name: Run Scraper
       run: yarn start
-    - name: Switch from HTTPS to SSH
-      run: git remote set-url origin ${{ secrets.ssh }}
     - name: Stage Changed Files
       run: git add .
     - name: Commit Changed Files

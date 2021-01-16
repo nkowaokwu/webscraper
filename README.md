@@ -1,4 +1,4 @@
-# webscraper
+# 🧼 webscraper
 Scrapes the [BBC Igbo](https://bbc.com/igbo) daily.
 
 The articles that are scraped form the publication for a given day
