@@ -9,6 +9,12 @@ const articleBase = '/igbo/afirika-';
 
 const finalObject = {}
 
+var dir = './articles';
+
+if (!fs.existsSync(dir)){
+    fs.mkdirSync(dir);
+}
+
 axios.get(bbcIgbo)
   .then(({ data }) => {
     try {
