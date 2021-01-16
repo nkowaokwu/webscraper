@@ -1,0 +1,28 @@
+{
+  "name": "webscraper",
+  "version": "1.0.0",
+  "description": "scrapes the bbc igbo",
+  "main": "webscraper.js",
+  "scripts": {
+    "dev": "nodemon --exec 'babel-node webscraper.js'",
+    "build": "./node_modules/.bin/babel webscraper.js --out-file index.js",
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/cli": "^7.12.10",
+    "@babel/core": "^7.12.10",
+    "@babel/node": "^7.12.10",
+    "axios": "^0.21.1",
+    "babel-node": "^0.0.1-security",
+    "cheerio": "^1.0.0-rc.5"
+  },
+  "devDependencies": {
+    "@babel/plugin-proposal-optional-chaining": "^7.12.7",
+    "@babel/plugin-transform-runtime": "^7.12.10",
+    "@babel/preset-env": "^7.12.11",
+    "nodemon": "^2.0.7"
+  }
+}

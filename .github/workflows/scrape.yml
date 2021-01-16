@@ -1,0 +1,37 @@
+name: scrape
+
+on:
+  schedule:
+    # Backs up database every day at 12:00 AM UTC
+    - cron: '0 0 * * *'
+  push:
+    branches:
+      - master
+
+jobs:
+  backup:
+    runs-on: ubuntu-latest
+      
+    steps:
+    - name: Git checkout files and create db directory
+      uses: actions/checkout@v2
+      with:
+        token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+    - name: Use Node.js 12
+      uses: actions/setup-node@v1
+      with:
+        node-version: 12
+    - name: Build Scraper
+      run: yarn build
+    - name: Run Scraper
+      run: yarn start
+    - name: Switch from HTTPS to SSH
+      run: git remote set-url origin ${{ secrets.ssh }}
+    - name: Stage Changed Files
+      run: git add .
+    - name: Commit Changed Files
+      run: git commit -m "Auto updating TODO.txt"
+    - name: Fetch from master
+      run: git fetch origin master
+    - name: Push Code to master
+      run: git push origin HEAD:master
