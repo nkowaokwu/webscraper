@@ -39,22 +39,14 @@ axios.get(bbcIgbo)
             finalObject[docName].published = $('time').first().text();
             finalObject[docName].sentences = reduce($('p, li').map((_, text) => {
               const finalText = $(text).text().replace(/^([0-9:\.])+/g, '');
-              // if (typeof finalText === 'string') {
-              //   finalText
-              // }
               return finalText;
             }
             ), (listOfSentences, sentence) => {
               listOfSentences.push(trim(sentence));
               return listOfSentences;
             }, []);
-            fs.writeFile(`articles/${docName}.json`, JSON.stringify(finalObject[docName], null, 2), (err) => {
-              if (err) {
-                console.log(err.message);
-                process.exit(1);
-              }
-              console.log(`Successfully wrote ${docName}`)
-            });
+            fs.writeFileSync(`articles/${docName}.json`, JSON.stringify(finalObject[docName], null, 2))
+            console.log(`Successfully wrote ${docName}`);
           });
       } catch (err) {
         console.log('Caught error:', err.message);
