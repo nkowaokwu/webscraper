@@ -37,9 +37,14 @@ axios.get(bbcIgbo)
             const docName = split(link, '/')[2].split('-')[1]
             finalObject[docName] = { published: '', sentences: [] };
             finalObject[docName].published = $('time').first().text();
-            finalObject[docName].sentences = reduce($('p').map((_, paragraph) => (
-              $(paragraph).text()
-            )), (listOfSentences, sentence) => {
+            finalObject[docName].sentences = reduce($('p, li').map((_, text) => {
+              const finalText = $(text).text().replace(/^([0-9:\.])+/g, '');
+              // if (typeof finalText === 'string') {
+              //   finalText
+              // }
+              return finalText;
+            }
+            ), (listOfSentences, sentence) => {
               listOfSentences.push(trim(sentence));
               return listOfSentences;
             }, []);
