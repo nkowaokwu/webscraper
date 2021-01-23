@@ -45,8 +45,16 @@ axios.get(bbcIgbo)
               listOfSentences.push(trim(sentence));
               return listOfSentences;
             }, []);
-            fs.writeFileSync(`articles/${docName}.json`, JSON.stringify(finalObject[docName], null, 2))
-            console.log(`Successfully wrote ${docName}`);
+            const filePath = `articles/${docName}.json`;
+            // Writes to file if it doesn't exist
+            if (!fs.existsSync(filePath)) {
+              fs.writeFileSync(filePath, JSON.stringify(finalObject[docName], null, 2))
+              console.log(`Successfully wrote ${docName}`);
+            }
+          })
+          .catch((err) => {
+            console.log('Caught error in .then():', err.message);
+            process.exit(1);
           });
       } catch (err) {
         console.log('Caught error:', err.message);
