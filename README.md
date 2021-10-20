@@ -29,3 +29,12 @@ You can also run the dev watch server for hot reloading:
 ```
 yarn dev
 ```
+
+## Igbo Tokenizer
+
+Tokenizing the extracted articles to find new and interesting Igbo words.
+So far, got `29,018` words in `words.json`.
+
+#### TO DO
+1. Github action to automatically tokenize the newly scraped articles and append newly found words to `words.json`.
+2. Find a way to automatically filter out non-meaningful words.
