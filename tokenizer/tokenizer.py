@@ -2,6 +2,7 @@ import os
 import re
 import json
 
+
 #Igbo Tokenizer: to extract Igbo words from scraped articles.
 #Developed by Chris Emezue.
 # License: MIT
