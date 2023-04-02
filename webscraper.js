@@ -1,11 +1,11 @@
 import axios from 'axios';
 import cheerio from 'cheerio';
 import fs from 'fs';
-import { filter, trim, map, reduce, split } from 'lodash';
+import { filter, trim, map, reduce, split, last } from 'lodash';
 
 const bbc = 'https://bbc.com';
 const bbcIgbo = 'https://bbc.com/igbo';
-const articleBase = '/igbo/afirika-';
+const articleBases = ['/igbo/afirika-', '/igbo/articles/'];
 
 const finalObject = {}
 
@@ -21,7 +21,7 @@ axios.get(bbcIgbo)
       const $ = cheerio.load(data);
       const articleLinks = filter($('a').map((_, anchor) => (
         $(anchor).attr('href')
-      )), (anchorLink) => anchorLink.startsWith(articleBase));
+      )), (anchorLink) => articleBases.some((articleBase) => anchorLink.startsWith(articleBase)));
       return articleLinks;
     } catch (err) {
       console.log('Anchor error:', err.message);
@@ -34,7 +34,7 @@ axios.get(bbcIgbo)
         return axios.get(`${bbc}${link}`)
           .then(({ data }) => {
             const $ = cheerio.load(data);
-            const docName = split(link, '/')[2].split('-')[1]
+            const docName = split(link, '/')[2].split('-')[1] || last(split(link, '/'));
             finalObject[docName] = { published: '', sentences: [] };
             finalObject[docName].published = $('time').first().text();
             finalObject[docName].sentences = reduce($('p, li').map((_, text) => {
@@ -62,7 +62,7 @@ axios.get(bbcIgbo)
       }
     }))
       .then(() => {
-        console.log(finalObject);
+        // console.log(finalObject);
         process.exit(0);
       });
 });
