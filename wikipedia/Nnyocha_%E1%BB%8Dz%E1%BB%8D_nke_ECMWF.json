@@ -1,0 +1,18 @@
+[
+  "Ọrụ nyocha nke ECMWF bụ ọrụ nyocha nke ihu igwe nke European Centre for Medium-Range Weather Forecasts (ECMWF) rụrụ",
+  "Ngwaahịa nyocha mbụ, ERA-iri na ise, mepụtara nyocha nyocha màkà ihe dịka afọ irí na ise, site n'ọnwa Disemba afọ 1978 ruo ọnwa Febụwarị 1994",
+  "Ngwaahịa nke abụọ, ERA-iri anọ (nke e bu n'obi na ọ bụ nyocha afọ iri anọ) malitere n'afọ 1957 (Afọ Geophysical International) ma kpuchie afọ iri anọ na ise ruo afọ 2002",
+  "Dị ka ónyé na-ebute ụzọ na ngwaahịa nyocha gbasaa iji dochie ERA-iri anọ, ECMWF wepụtara ERA-Interim, nke na-ekpuchi ógè site n'afo 1979 ruo 2019.\nECMWF wepụtara ngwaahịa nyocha ọhụrụ ERA5 n'oge na-adịbeghị ányá dị ka akụkụ nke Copernicus Climate Change Services",
+  "Ngwaahịa a nwere mkpebi dị elu (kilomita iri atọ na otu) ma kpuchie ógè site n'afo 1979 ruo ugbu a",
+  "Mgbatị ruo afọ 1940 malitere n'afọ 2023.",
+  "Na mgbakwunye na nyochaa data ochie niile site na iji usoro na-agbanwe agbanwe, nyocha ahụ na-ejikwa ọtụtụ data echekwara nkè na-adịghị na nyocha mbụ",
+  "Nkè a na-enye ohere màkà idozi ọtụtụ map aka nke akụkọ ihe méré eme ébé atụmatụ nke atụmatụ bụ ihe a na-ahụkarị n'ógbè nkè data dị obere",
+  "Ikike ahụ dịkwa iji mepụta map ọhụrụ nke ọkwa ikuku nkè a na-ejikarị eme ihe ruo n'oge na-adịbeghị anya.",
+  "E ji ọtụtụ isi mmalite nke nchọpụta ihu igwe mee ihe, gụnyere radiosondes, balloons, ụgbọelu, buoyes, satellites, scatterometers",
+  "A na-agba data a site na ụdị kọmputa ECMWF na mkpebi  kilomita otu narị na iri abụọ na ise. Dị ka ihe nlereanya kọmputa nke ECMWF bụ otu n'ime ndị a na-akwanyere ùgwù nke ukwuu n'ọhịa ịkọ ọdịnihu, ọtụtụ ndị ọkà mmụta sayensị na-ewere nyocha ya iji nwee uru yiri ya",
+  "A na-echekwa data ahụ na usoro GRIB",
+  "E mere nyocha ahụ na mgbalị iji melite izi ezi nke map ihu igwe akụkọ ihe méré eme ma nyere aka na nyocha zuru ezu nke usoro ihu igwe dị iche iche n'ime ógè nke na-enweghị data kọmputa",
+  "Site na data sitere na nyocha dị ka nke a, enwere ike iji ọtụtụ ngwaọrụ kọmputa nke oge a màkà nyocha usoro oké ifufe, ma ọ dịkarịa ala n'akụkụ ụfọdụ, n'ihi ohere a màkà ihe ngosi kọmputa nke ọnọdụ ikuku.",
+  "A na-enweta ngwaahịa nyocha nkè ECMWF site na ébé obibi nkè Climate Change Services. Enwere ike ibudata data màkà iji nyocha site na ébé obibi ECMWF (lee njikọ mpụga) na National Center for Atmospheric Research data archives",
+  "Ha abụọ chọrọ ndebanye aha.\nEnwere ike iji API weebụ Python ibudata akụkụ nke parameters màkà mpaghara ahọrọ na ógè."
+]

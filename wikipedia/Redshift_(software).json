@@ -1,0 +1,21 @@
+[
+  "Redshift bụ ngwá nke na-agbanwe okpomọkụ agba nke ngosipụta kọmputa dabere na oge nke ụbọchị",
+  "Ihe omume a bụ ngwanrọ n'efu, a na-ezube ndị mmadụ n'ihe ndị mere n'oge ibelata nsogbu anya yana ehighị ụra nke ọma (lee Sleep#Circadian clock na Phase response curve#Light).",
+  "Redshift na-agbanwe okpomọkụ nke ngosipụta kọmputa n'etiti okpomọkụ ehihie na abalị iji kwe ka anya onye ọrụ jiri nwayọọ nwayọọ gbanwee",
+  "N'abalị, okpomọkụ na-acha ala ma na-abụkarị 3000-4000 K, nke kachasị mma kwekọọ ndị mmadụ n'ihe ndị mere n'oge ochie nakwa n'oge na okpomọkụ ọkụ nke ụlọ ahụ",
+  "Okpomọkụ na-acha n'ehihie bụ 5500-6500 K.",
+  "Enwere ike iji redshift mee ihe iji setịpụ otu okpomọkụ na ìhè (\"otu ọnọdụ\") ma ọ bụ nwee ike ịgbanwe okpomọkụ ma na-enwu enwu n'ụzọ na-aga n'ihu iji soro ịdị elu nkè ikike asụsụ obodo ndị anyanwụ, n'ọnọdụ ahụ ọ ga-agafe na nhazi okpomọkụ abalị na nso mgbede",
+  "Enwere ike ịhazi ndị mmadụ n'ihe niile ụmụ gị okpomọkụ na ntụgharị maka ehihie na abalị.",
+  "Iji chọpụta ịdị elu nke anyanwụ, ngwanrọ ahụ chọrọ ọnọdụ onye ọrụ n'ụdị latitude na longitude.",
+  "Na sistemụ arụmọrụ Linux na BSD, Redshift na-akwado ọtụtụ monitors site na ndọtị X RandR (nke a họọrọ) ma ọ bụ VidMode, ma ọ bụ site na Direct Rendering Manager",
+  "N'ihi na enwere ike ịhazi Redshift iji otu mgbazi gamma na monitors niile ọ na-achịkwa, ọ na-adịkarị mma ịgba ọsọ otu ihe omume nke monitor ọ bụla.",
+  "Redshift nwere naanị interface iwu na mbụ, mana ugbu a nwere interface onye ọrụ eserese (GUIs) nke na-akwado ọtụtụ gburugburu desktọọpụ Linux",
+  "GUIs ndị ahụ gụnyere redshift-gtk, redshift -plasmoid, na nightshift.",
+  "redshift-gtk gụnyere na isi osisi Redshift",
+  "Na mgbakwunye na interface windo, ọ na-enye akara ngosi ọnọdụ nke nwere ike ime ka ma ọ bụ gbanyụọ Redshift ma ọ bụ gbanwee okpomọkụ agba ihuenyo na-akpaghị aka.",
+  "Enwere ike imeghe redshift site na iji ọdụ, panel launchers ma ọ bụ iwu mmalite: iwu 'redshift -O #TEMP' (# TEMP bụ nọmba site na 1000 ruo 25000) ga-etinye okpomọkụ na iwu 'redshft -x' ka ọ pụọ na Redshift.",
+  "Enwere ike ime edemede dị mfe ma kpọọ ya ka ọ setịpụ oge agba site na ụzọ mkpirisi ma ọ bụ panel launcher:",
+  "Ndị ọrụ Linux enyochawo Redshift nke ọma, ndị na-ekwu na Redshift nwere ụfọdụ ntinye na njirimara njirimara njikwa ma e jiri ya tụnyere ọdụ ụgbọ mmiri f.lux Linux xflux. Otú ọ dị, emelitere usoro f.lux iji bulie ngosipụta ya.",
+  "Ubuntu MATE na-enye Redshift arụnyere site na ndabara kemgbe a tọhapụrụ ha 17.10.",
+  "Linux Mint Cinnamon na-enye Redshift arụnyere site na ndabara kemgbe a tọhapụrụ ha 18.3."
+]

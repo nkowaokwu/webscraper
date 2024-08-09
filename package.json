@@ -5,8 +5,14 @@
   "main": "webscraper.js",
   "scripts": {
     "dev": "nodemon --exec 'babel-node webscraper.js'",
-    "build": "./node_modules/.bin/babel webscraper.js --out-file index.js",
+    "dev:igbo_names": "nodemon --exec 'babel-node webscraper_igbo_names.js'",
+    "build:bbc": "./node_modules/.bin/babel webscraper.js --out-file index.js",
+    "build:igbo_names": "./node_modules/.bin/babel webscraper_igbo_names.js --out-file igbo_names.js",
+    "build:wikipedia": "./node_modules/.bin/babel webscraper_wiki.js --out-file wiki.js",
+    "build": "yarn build:bbc && yarn build:wikipedia",
     "start": "node index.js",
+    "start:wikipedia": "node wiki.js",
+    "compile": "node compile.mjs",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",

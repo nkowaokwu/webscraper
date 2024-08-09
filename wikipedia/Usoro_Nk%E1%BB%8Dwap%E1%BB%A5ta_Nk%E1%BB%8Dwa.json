@@ -1,0 +1,13 @@
+[
+  "Integrated Forecasting System (IFS) bụ usoro amụma ihu igwe zuru ụwa ọnụ nké European Centre for Medium-Range Weather Forecasts (ECMWF) nké dị na Reading, England, na Météo-France nké dị na Toulouse jikọrọ áká mepụta ma lekọta. A na-akpọkarị mbipụta nkè IFS na-agba ọsọ na ECMWF dị ka \"ECMWF\" ma ọ bụ \"ihe nlereanya Europe\" na North America, iji mee ka ọ dị íchè na GFS America.",
+  "Ọ na-agụnye ihe nlereanya ikuku na-agbanwe agbanwe nké nwéré usoro nhazi kwụ ọtọ na-agbaso ala jikọtara ya na usoro 4D-Var data assimilation",
+  "N'afọ 1997, IFS ghọrọ usoro amụma mbụ na-arụ ọrụ iji 4D-Var. Ma ECMWF na Météo-France na-eji IFS eme amụma ihu igwe, mànà na-eji nhazi na mkpebi dị íchè (a na-akpọ nhazi Météo na France dị ka ARPEGE)",
+  "Ọ bụ otu n'ime ụdị ndị kachasị n'ụwa niile na-eji n'ụwa nile; ndị na-asọmpi ya kachasị na ụbọchị isii ruo ụbọchị iri gụnyere American Global Forecast System (GFS), Canadian Global Environmental Multiscale Model (GEM na GDPS) na UK Met Office Unified Model.",
+  "ECMWF na-agba IFS n'ọtụtụ nhazi",
+  "A na-agba nhazi \"HRES\" kachasị elu kwa awa isií (00Z na 12Z ruo ụbọchị 10, 06Z/18Z ruo awa iri itoolu) na mkpebi dị larịị nke 9 kilomita site na iji 137 okpukpu dị larịụ. A na-ejikwa usoro \"ENS\" nke ndị otu irí ise na otu na-agba ọsọ kwà awa iri na abụọ ruo ụbọchị iri na ise na 06Z/18Z ọ bụla ruo ụbọchị isii na mkpebi dị larịị nke kilomita iri na asatọ na okpukpu 137 n'ụzọ kwụ ọtọ",
+  "ECMWF na-ejikwa ụdị IFS siri ike karịa ụbọchị 45; a na-agba ụdị a kwa izu, na mmepụta n'ime ụbọchị ise",
+  "E nwekwara nsụgharị nke na-agwụ otu afọ",
+  "Ụdị ụdị niile ma e wezụga HRES jikọtara ya na ụdị oké osimiri NEMO.",
+  "Ọtụtụ mba ndị otu ECMWF na-eji amụma ụwa nke ECMW F iji nye ọnọdụ ókèala màkà mkpebi ha dị elu, amụma mpaghara dị oke ala. ECMWF amụma bụ n'efu màkà ọrụ ihu igwe nke mba ndị otu ya, mana a na-akwụ ndị ọrụ azụmahịa ụgwọ, ébé data ọrụ dị oke (họrọ mgbanwe site na HRES na ENS n'ime ụbọchị iri) dị maka ndị na-azụ ahịa n'okpuru ikikere Creative Commons na-abụghị nke azụmahịa na-amachibido ọrụ ndị ọzọ (CC-BY ND NC). N'ụzọ dị íchè, mmepụta sitere na GFS na GEM / GDPS na-enye ndị ọrụ niile ikikere n'efu.",
+  "Koodu isi iyi zuru ezu nke IFS dị naanị na ọrụ ihu igwe nke mba ECMWF. Koodu isi màkà ụdị ikuku dị màkà ndị ọrụ ndị ọzọ na-abụghị ndị ahịa n'ụdị OpenIFS nke chọrọ ikikere n'efu. Ihe nlereanya ihu igwe EC-Earth dabeere na IFS."
+]

@@ -1,0 +1,21 @@
+[
+  "Ngụkọta nke electron (TEC) bụ ihe dị mkpà na-akọwa màkà ionosphere nke ụwa",
+  "TEC bụ ngụkọta ọnụ ọgụgụ nkè electrons jikọtara n'etiti isi abụọ, n'akụkụ tube nke otu mita square cross section, ya bụ, ọnụọgụ ọnụọgụ nké electron",
+  "A na-akọkarị ya n'ọtụtụ nkè a na-akpọ TEC unit, akọwapụtara dị ka TECU=1016el/m2≈1.66×10−8 mol⋅m−2.",
+  "TEC dị mkpà n'ịkọwapụta scintillation na ìgwè na ógè igbu oge nke ebili mmiri redio site na ónyé na-ahụ màkà ya",
+  "A na-akọwa Ionospheric TEC site n'ịhụ oge igbu oge nke mgbaàmà redio natara site na satellites dị n'elu ionosphere, na-ejikarị satellites Global Positioning System",
+  "Ọrụ anyanwụ na-emetụta TEC nke ukwuu.",
+  "TEC na-adabere n'ụzọ",
+  "Site na nkọwa, enwèrè ike ịgbakọ ya site na ijikọta n'ụzọ ds site na ionosphere nà ọnụọgụ electron na-adabere na ọnọdụ ne(s):",
+  "A na-ekpebi TEC kwụ ọtọ (VTEC) site na njikọta nkè njupụta electron na ụzọ kwụ ọtọ n'ala, a na-enweta TEC (STEC) site n'ijikọta n'ụzọ ọ bụla kwụ ọtọ.",
+  "Na usoro mbụ, mmetụta mgbasa ozi redio ionospheric kwekọrọ na TEC ma kwekọọ na frequency redio f",
+  "Ógè ionospheric na-egbu oge mà e jiri ya tụnyere mgbasa na ikuku na-agụ:: eq",
+  "(9.41)",
+  "ébé igbu ógè nke ìgwè ionospheric nwèrè otu oke ma ihe ịrịba ama dị iche:",
+  "A na-egosipụtakarị igbu ógè ionospheric na nkeji nke ogologo (mita), na-eche na igbu ógè (na sekọnd) mụbara site na ọsọ nké ìhè (na m / s)",
+  "Nkọwa na-adịgide adịgide κ na-agụ:: eq.(9.21), (9.20), (9.19), (9.14)",
+  "ebe q, m, re bụ ụgwọ electron, oke, na radius, n'otu n'otu; c bụ ọsọ ọsọ nke ìhè na ε0 bụ ikike ikuku",
+  "Uru nke ihe na-adịgide adịgide bụ ihe dịka κ ≈ 40.308193 m3·s−2; enwèrè ike igosipụta nkeji ndị ahụ dịka m·m2·Hz2 iji mee ka nkwụsịtụ na-emetụta igbu oge τ na mita pụta ìhè, nyéré f na Hz na TEC na m−2",
+  "A na-egosipụta ụkpụrụ ehihie nke TEC na nha site na efu ruo TEC otu narị",
+  "Otú ọ dị, enwèrè ike iwepụta obere ọdịiche nke 0.1-0.5 TEC nkeji n'okpuru echiche nke echiche na-adịgide adịgide. Obere ọdịiche TEC ndị a nwèrè njikọ na nsogbu ionospheric na-agagharị agagharị (MSTIDs)."
+]

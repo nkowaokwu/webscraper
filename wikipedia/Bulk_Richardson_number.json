@@ -1,0 +1,15 @@
+[
+  "Ọnụ ọgụgụ Bulk Richardson (BRN) bụ ihe atụ nkè ọnụọgụ Gradient Richardson. BRN bụ ọnụọgụ na-enweghị akụkụ na ihu igwe metụtara oriri nkè turbulence nké kewara site na mmepụta shear (ọgbọ nkè turbulance kinetic energy kpatara site na ikuku shear) nké turbulency",
+  "A na-eji ya egosi nkwụsi ike na mmepụta nke ọgba aghara.",
+  "A na-eji BRN eme ihe ugboro ugboro na meteorology n'ihi data rawinsonde (nkè a na-akpọkarị radiosonde) na amụma ihu igwe nké na-enye ikuku na okpomọkụ n'ébé dị íchè íchè na mbara igwe.",
+  "N'okpuru ébé a bụ usoro màkà BRN",
+  "Ébé g bụ ọsọ ọsọ, Tv bụ oke okpomọkụ, Δθv bụ ọdịiche dị n'etiti okpomọkụ dị n'ofe ọkpụrụkpụ Δz (omimi kwụ ọtọ), na ΔU na ΔV bụ mgbanwe na ihe ndị dị n'akụkụ ikuku gafee otu okpomọkụ ahụ.",
+  "Ọnụ ọgụgụ dị elu na-egosi ébé ndị na-adịghị akwụsi ike na / ma ọ bụ ebe ndị na'adịghị ike; ọnụ ọgụgụ dị ala na-egosi enweghị ike na / ọ bụ ike ịkpụcha",
+  "N'ozuzu, ụkpụrụ dị n'agbata  irí nakwa irí ise na-atụ aro ọnọdụ gbụrụ-gbúrụ ébé obibi dị mmá màkà mmepe supercell.",
+  "Na njedebe nkè ọkpụrụkpụ nké na-aghọ obere, ọnụọgụ Bulk Richardson na-eru nso ọnụọgụ Gradient Richardson, nkè ọnụọgụ Richardson dị oké égwu bụ ihe dịka Ric= 0.25",
+  "Ọnụ ọgụgụ ndị na-erughị uru a dị oke egwu anaghị akwụsi ike ma nwee ike ịghọ ma ọ bụ nọgide na-agbagwoju anya.",
+  "Ọnụ ọgụgụ dị oke egwu nkè 0.25 na-emetụta naanị maka gradients mpaghara, ọ bụghị màkà ọdịiche dị ichè íchè gafee nnukwu ọkwa",
+  "Ka ọ na-esiwanye ike, o yikarịrị ka anyị ga-emezi nnukwu gradients na-eme n'ime obere mpaghara nke ihe na-adọrọ mmasị",
+  "Nke a na-eme ka ejighị n'aka banyéré amụma anyị banyéré ihe na-eme, ma ugbu a, mmadụ ga-eji uru buru ibu nke ọnụ ọgụgụ Richardson dị oke egwu iji nye nsonaazụ ezi uche dị na ya site na iji gradients anyị dị nro",
+  "Nke a pụtara na ka ọ na-adịkwu arọ, otú ahụ ka uru ahụ na-eru nso na echiche ahụ."
+]

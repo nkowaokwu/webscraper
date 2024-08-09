@@ -1,0 +1,19 @@
+[
+  "Grid Analysis and Display System (GrADS) bụ ngwá ọrụ desktọọpụ na-emekọrịta ihe nke a na-eji màkà ịnweta, njikwa, na ịhụ ihe ọmụma nkè data sayensị ụwa. Usoro nkè data nwèrè ike ịbụ ma ọ bụ binary, GRIB, NetCDF, ma ọ bụ HDF-SDS (Scientific Data Sets)",
+  "E mejuputala GrADS n'ụwa niile na sistemụ arụmọrụ dị íchè ichè a na-ejikarị eme ihe ma na-ekesa ya n'efu na Ịntanetị.",
+  "GrADS na-eji gbụrụ-gbúrụ data 4-Dimensional: longitude, latitude, ọkwa kwụ ọtọ, na ógè",
+  "A na-etinye data n'ime oghere 4-D site na iji faịlụ nkọwa data",
+  "GrADS na-akọwa data ọdụ ya na data gridded, na grid nwèrè ike ịbụ ógè niile, nke na-abụghị nke dị n'usoro, Gaussian, ma ọ bụ nke mkpebi dị iche iche",
+  "Enwèrè ike ikpuchi data sitere na data dị íchè íchè, na ndebanye aha oghere na ógè ziri ezi",
+  "Ọ na-eji usoro ctl sonye na usoro data dị íchè íchè",
+  "A na-arụ ọrụ n'ụzọ mmekọrịta site na itinye okwu yiri FORTRAN na akara iwu",
+  "A na-enye ọtụtụ ọrụ ndị e wuru n'ime, mànà ndị ọrụ nwekwara ike ịgbakwunye ọrụ nke ha dị ka usoro mpụga edere na asụsụ mmemme ọ bụla.",
+  "Enwèrè ike igosi data site na iji usoro eserese dịgasị iché ichè: akara na mmanya eserese, eserese na-agbasa, contours dị nro, contours shaded, streamlines, wind vectors, grid boxes, grid bocks, shaded grid boxes",
+  "Graphics nwere ike ịpụta na PostScript ma ọ bụ usoro ihe oyiyi",
+  "GrADS na-enye ọdịdị ọdịdị ọdịiche nke ọdịdị ala, mànà ónyé ọrụ nwèrè nhọrọ ịchịkwa akụkụ niile nke mmepụta eserese.",
+  "GrADS nwèrè interface a na-eme atụmatụ (asụsụ edemede) nké na-enye ohere màkà nyocha dị mgbagwoju anya na ngwa ngosi",
+  "Ihe odide nwéré ike igosi bọtịnụ ma wepụ menus yana ndị na-ese onyinyo, wee mee ihe dabere na akara na ịpị onye ọrụ",
+  "Enwèrè ike ịgba ọsọ GrADS n'ọnọdụ batch, na asụsụ édémédé na-eme ka ọ dị mfe iji GrADS rụọ ọrụ batch ogologo ógè",
+  "Ka ọ na-erule mbipute 2.2.0, a na-ejikwa ngosipụta na mbipụta ugbu a dị ka plug-ins onwé ha",
+  "E webatara mgbatị C-asụsụ Python màkà GrADS a na-akpọ GradsPy na mbipute 2.2.1."
+]

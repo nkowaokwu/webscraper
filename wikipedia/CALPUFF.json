@@ -1,0 +1,15 @@
+[
+  "CALPUFF bụ usoro nhazi nke Lagrangian puff dị elu, nke jikọtara ọnụ màkà ihe ngosi nkè mmetọ ikuku nké Atmospheric Studies Group kesara na TRC Solutions.",
+  "Ọ bụ ndị mmepe ihe nlereanya na-elekọta ya ma TRC na-ekesa ya.\nỤlọ ọrụ United States Environmental Protection Agency (EPA) anabatala ihe nlereanya ahụ na ntuziaka yá nà Air Quality Models dị ka ihe nlereanya kachasị mmá màkà ịtụle njem dị anya nke mmetọ na mmetụta ha na mpaghara Federal Class I na n'ọnọdụ ọ bụla màkà ụfọdụ ngwa ndị dị nso na-emetụta ọnọdụ ihu ígwè dị mgbagwoju anyà.",
+  "Usoro ihe nlereanya a jikọtara ọnụ nwèrè isi ihe atọ na usoro mmemme preprocessing na postprocessing",
+  "Ihe ndị bụ isi nke usoro ihe nlereanya ahụ bụ CALMET (ihe nchọpụta 3-dimensional meteorological model), CALPUFF (ihe nlereanya mgbasa ikuku), na CALPOST (nchịkọta postprocessing)",
+  "Nke ọ bụla n'ime mmemme ndị a nwèrè interface onye ọrụ eserese (GUI)",
+  "Na mgbakwunye na ihe ndị a, enwèrè ọtụtụ nhazi ndị ọzọ enwere ike iji kwadebe data geophysical (iji ala eme ihe na ala) n'ọtụtụ usoro ọkọlọtọ, data ihu ígwè (elu, ikuku elu, mmiri ozuzo, na data buoy), na interface na ụdị ndị ọzọ dịka Penn State / NCAR Mesoscale Model (MM5), National Centers for Environmental Prediction (NCEP) Eta model na ụdị RAMS meteorological.",
+  "E mepụtara ihe nlereanya CALPUFF iji gosipụta mgbasa nke ihe na-efe efe, puff ma ọ bụ isi ihe na-aga n'ihu na ébé mmetọ yá nà mgbasa nke ihe ndị na-efefe, ihe na-adịghị aga n'ihu",
+  "Ihe nlereanya ahụ gụnyekwara algọridim màkà ijikwa mmetụta nke downwash site na ụlọ ndị dị nso n'ụzọ nke plumes mmetọ.",
+  "Ọ bụ Sigma Research Corporation (SRC) mepụtara ụdị CALPUFF na ngwụcha 1980 n'okpuru nkwekọrịta yana California Air Resources Board (CARB) ma e wepụtara ya na mbụ n'ihe dị ka 1990.",
+  "Sigma Research Corporation mechara bụrụ akụkụ nke Earth Tech, Inc",
+  "Mgbè US EPA họpụtara CALPUFF dị ka ihe nlereanya kachasị mmá na ntuziaka ha na Air Quality Models, Earth Tech jere ozi dị ka ónyé nkesa a họpụtara nkè ihe nlereanya ahụ.",
+  "N'ọnwa Eprel afọ 2006, ónyé nwe ihe nlereanya ahụ gbanwere site na Earth Tech gaa na TRC Environmental Corporation",
+  "N'ogè na-adịbeghị anya, e nyefere ónyé nwe ya na Exponent, bụ ndị na-ahụ màkà idebe na ikesa ihe nlereanya ahụ ugbu a (Disemba 2015)"
+]

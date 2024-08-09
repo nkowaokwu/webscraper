@@ -1,0 +1,15 @@
+[
+  "ECHAM bụ ihe nlereanya mgbasa ozi (GCM) nke Max Planck Institute for Meteorology mepụtara, otu n'ime òtù nyocha nkè Max Plancks Society",
+  "E kèrè ya site n'ịgbanwe ụdị amụma zuru ụwa ọnụ nke ECMWF mepụtara iji mee ihe màkà nyocha ihu igwe",
+  "E nyèrè ihe nlereanya ahụ aha ya dị ka njikọta nke mmalite ya (nke 'EC' bụ mkpụmkpụ màkà 'ECMWF') na ébé mmepe nke ngwugwu nhazi ya, Hamburg",
+  "Ntọala ndabara nke ihe nlereanya ahụ na-edozi ikuku ruo iri hPa (nke a na-ejikarị eme ihe iji mụọ ikuku dị ala), mànà enwèrè ike ịmegharị ya na 0.01 hPa màkà iji ya na ịmụ stratosphere na mesosphere dị ala.",
+  "Ụdị dị íchè íchè nke ECHAM, karịsịa nhazi dị ichè íchè nkeECHAM5, abụwo ihe ndabere nke ọtụtụ akwụkwọ, edepụtara na ébé nrụọrụ weebụ ECHAM5",
+  "E jiri ya tụnyere ónyé bu ya ụzọ, ECHAM4, ọ dị mfe ma na-agbanwe agbanwe (a na-ede ya ugbu a n'asụsụ mmemme Fortran 95), na n'ihi mgbanwe dị ukwuu na obere na akụkụ dị íchè ichè nke koodu ọ na-eji, ọ na-emepụta ihu igwe dị íchè iche.",
+  "E ji MPI-ECHAM5 mee ihe na IPCC Fourth Assessment Report, n'akụkụ ọtụtụ GCM ndị ọzọ sitere na mba dị íchè íchè. Na data nkè akụkọ a, a na-akpọ ya mkpirisi MPEH5.",
+  "O yiri ka ọ bụ otu n'ime GCMs ziri ezi.",
+  "ECHAM6 bụ ugbu a ụdị kachasị elu nke ụdị ECHAM",
+  "ECHAM6 bụ ihe nlereanya mgbasa ozi ikuku n'ozuzu ya, n'ihi ya, ọ na-elekwasị ányá na njikọta dị n'etiti usoro diabatic na mgbasa ozi buru ibu, nke abụọ a na-emecha site na radiative forcing",
+  "Ọ na-agụnye isi ihe na-agbanwe agbanwe nke na-akpụ akpụ, ihe nlereanya njem màkà ọnụọgụ scalar ndị ọzọ karịa okpomọkụ na nrụgide elu, usoro nhazi anụ ahụ màkà nnọchiteanya nke usoro diabatic, yana data dị n'ókè màkà akụkụ ndị dị n'è, dị ka nkesa gas na aerosol, nchịkọta nke gas absorption optical properties, mgbanwe ógè na spectral solar irradiance, ala-surface properties, wdg.",
+  "Mgbanwe ndị dị mkpa metụtara ECHAM5 gụnyere: Nnọchiteanya ka mmá nkè nnyefe radiative na obere ógè (ma ọ bụ anyanwụ) akụkụ nke spectrum; nkọwa ọhụrụ nke aerosols; nnọchiteanya ka elu nke albedo, gụnyere ọgwụgwọ nke mmiri na-agbaze na ice oké osimiri; na nnọchiteanya dị mmá nke etiti ikuku dị ka akụkụ nke ụkpụrụ ụkpụrụ",
+  "Na mgbakwunye, emeela obere mgbanwe na nnọchiteanya nke usoro convective, na site na nhọrọ nke obere dị íchè íchè dị n'ime troposphere, yana mgbanwe mgbanwe ihe nlereanya."
+]
