@@ -6,6 +6,7 @@
     "dev": "nodemon -e ts",
     "build": "tsc",
     "start": "node dist/webscraper.js",
+    "start:igbo_radio": "node dist/igbo_radio_webscraper.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
