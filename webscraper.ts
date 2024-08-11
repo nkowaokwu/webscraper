@@ -10,7 +10,7 @@ const MAX_DEPTH = 2;
 
 const finalObject = {};
 
-var dir = './articles';
+const dir = './articles';
 
 if (!fs.existsSync(dir)) {
   fs.mkdirSync(dir);

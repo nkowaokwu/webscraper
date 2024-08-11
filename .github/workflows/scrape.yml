@@ -23,8 +23,10 @@ jobs:
         run: |
           yarn install
           yarn build
-      - name: Run Scraper
+      - name: Run BBC Igbo Scraper
         run: yarn start
+      - name: Run Igbo Radio Scraper
+        run: yarn start:igbo_radio
       - name: Get Current Time
         uses: 1466587594/get-current-time@v2
         id: current-time
